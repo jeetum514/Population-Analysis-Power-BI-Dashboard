@@ -62,4 +62,5 @@ Population-Analysis-Dashboard/
 ## 👨‍💻 Author
 
 **Jit Muraw**
+
 If you found this project useful, feel free to ⭐ the repository.
